@@ -14,9 +14,6 @@ Aquí puedes poner una lista simple o iconos:
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=DavidM-126)
 
 ### 🤝 Contacto
 - [LinkedIn](TU_URL_DE_LINKEDIN)
