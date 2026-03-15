@@ -16,9 +16,7 @@ Aquí puedes poner una lista simple o iconos:
 
 ### 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidM_126&show_icons=true&theme=tokyonight)
----
-
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidM_126&layout=compact&theme=tokyonight)
 ### 🤝 Contacto
 - [LinkedIn](TU_URL_DE_LINKEDIN)
 - [Mi Portfolio](TU_WEB_PERSONAL)
