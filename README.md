@@ -14,6 +14,8 @@ Aquí puedes poner una lista simple o iconos:
 
 ---
 
+### 📊 Mis estadísticas de GitHub
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=davidminarro126-byte&show_icons=true&theme=tokyonight)
 
 ### 🤝 Contacto
 - [LinkedIn](TU_URL_DE_LINKEDIN)
