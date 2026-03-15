@@ -16,8 +16,7 @@ Aquí puedes poner una lista simple o iconos:
 
 ### 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidM_126?show_icons=true&theme=tokyonight)
-
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=DavidM_126&show_icons=true&theme=tokyonight)
 ---
 
 ### 🤝 Contacto
